@@ -1,1 +1,2 @@
-# HOA12
+# CPE243_HOA12
+CPE243 - CPE32S4 Hands-on Activity 12
